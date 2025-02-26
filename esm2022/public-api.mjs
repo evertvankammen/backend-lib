@@ -1,0 +1,5 @@
+/*
+ * Public API Surface of backend-lib
+ */
+export * from './lib';
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoicHVibGljLWFwaS5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uL3Byb2plY3RzL2JhY2tlbmQtbGliL3NyYy9wdWJsaWMtYXBpLnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBOztHQUVHO0FBQ0gsY0FBYyxPQUFPLENBQUMiLCJzb3VyY2VzQ29udGVudCI6WyIvKlxyXG4gKiBQdWJsaWMgQVBJIFN1cmZhY2Ugb2YgYmFja2VuZC1saWJcclxuICovXHJcbmV4cG9ydCAqIGZyb20gJy4vbGliJztcclxuXHJcbiJdfQ==
